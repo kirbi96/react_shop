@@ -1,0 +1,35 @@
+.Menu{
+    margin-top: 25px;
+}
+
+.Header__link{
+    color: black;
+    font-weight: 600;
+    transition: 300ms;
+}
+
+
+.Header__link:hover{
+    color: orangered;
+    text-decoration: none;
+}
+
+.Checkout{
+    padding: 5px 20px;
+    background-color: orangered;
+    border-radius: 10px;
+}
+
+.Checkout:hover{
+    background-color: orange;
+    color: #282c34;
+    text-decoration: none;
+}
+ul{
+    padding-left: 0;
+}
+
+li{
+    list-style-type: none;
+    margin-left: 25px;
+}

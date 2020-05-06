@@ -1,0 +1,47 @@
+.Product{
+margin-top: 40px;
+}
+
+.Product-name{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.Product-footer{
+    margin-top: auto;
+    margin-bottom: 0;
+}
+
+.Product-price{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.Product-link{
+    color: orangered;
+    padding: 5px 25px;
+    border: orangered 1px solid;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+.Product-link:hover{
+    font-weight: 500;
+    text-decoration: none;
+    color: #ff030c;
+    padding: 5px 25px;
+    border: #ff030c 1px solid;
+    border-radius: 10px;
+}
+
+.Product-link:active{
+    font-weight: 500;
+    text-decoration: none;
+    color: #00ff5c;
+    padding: 5px 25px;
+    border: #00ff5c 1px solid;
+    border-radius: 10px;
+}
+
+
+

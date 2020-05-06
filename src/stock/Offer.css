@@ -1,0 +1,17 @@
+.Offer{
+ margin-top: 40px;
+}
+
+.Offer img{
+    border-radius: 20px;
+}
+
+.Offer-name{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.Offer-component p{
+    color: #949494;
+}

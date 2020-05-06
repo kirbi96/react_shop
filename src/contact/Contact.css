@@ -1,0 +1,20 @@
+.Contact-item{
+    margin-top: 40px;
+}
+
+.Contact-city{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 150px;
+}
+
+.Contact-city input{
+    border-radius: 10px;
+    margin-top: 15px;
+    border: 1px solid black;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 5px;
+    padding-right: 5px;
+}

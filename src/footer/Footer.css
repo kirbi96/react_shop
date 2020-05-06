@@ -1,0 +1,36 @@
+.Footer{
+    margin-top: 60px;
+    background-color: rgb(55, 53, 53);
+    color: rgb(176, 176, 176);
+}
+.Footer-link{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.Footer-link a{
+    color: rgb(176, 176, 176);
+    font-weight: 600;
+    font-size: 16px;
+    margin-left: -25px;
+}
+
+.Footer-link a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+
+.Footer-link li:not(:first-child){
+    margin-top: 5px;
+}
+
+.Footer-right{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+.Footer-social img{
+    width: 60px;
+}
